@@ -30,3 +30,8 @@
 [2026-03-27T11:20:00.000000+00:00] Fetched resources, checked items created after 2026-03-27T05:20:00Z
 [2026-03-27T11:20:00.000000+00:00] Total items in last 6 hours: 0
 [2026-03-27T11:20:00.000000+00:00] No new items — nothing to sync.
+
+## Sync run: 2026-03-28T23:22:41Z
+
+**Status:** SKIPPED — Fabric MCP tools not available
+
