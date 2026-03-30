@@ -51,3 +51,8 @@
 - Existing synced: 2 bookmark files in fabric/bookmark/
 - Total Fabric items: 4490
 - Next scheduled sync: 2026-03-30T07:04 UTC
+
+## 2026-03-30 07:04 UTC
+- Status: SKIPPED — Fabric MCP server not available on this system
+- Most recent synced item: still from 2026-03-25 (Facebook share page)
+- Existing synced: 2 bookmark files in fabric/bookmark/
