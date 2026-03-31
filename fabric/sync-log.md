@@ -73,3 +73,18 @@
 - No new items could be synced without Fabric access
 - Last successful sync remains: 2026-03-25 (Facebook share page)
 - Total synced: 2 bookmark files in fabric/bookmark/
+
+## 2026-03-31 05:25 UTC
+- Checked items created in the last 6 hours (from 2026-03-30T23:25 UTC)
+- Fabric REST API accessible; MCP tools not invoked
+- Fetched 50 recent resources and filtered them locally
+- New items within the window: 0 → no files written
+- Git status clean after `git add -A` and commit attempt (nothing to commit)
+
+## 2026-03-31 07:04 UTC
+- Attempted sync at 2026-03-31T07:04 UTC
+- Status: SKIPPED — No network connectivity (DNS resolution failed)
+- Could not resolve host: platform.fabric.io
+- Fabric API key present in environment but unreachable
+- Last successful sync remains: 2026-03-25 (Facebook share page)
+- Total synced: 2 bookmark files in fabric/bookmark/
