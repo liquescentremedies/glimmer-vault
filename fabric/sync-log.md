@@ -64,9 +64,12 @@
 - No new items requiring sync (all items predate the 6h window)
 - Existing synced: 2 bookmark files in fabric/bookmark/
 
-## 2026-03-30 19:04 UTC
-- Status: SKIPPED — Fabric MCP tools not available on this system
-- Tried REST API but network unavailable (connection failed)
-- Last successful sync was 2026-03-25
-- No new items to sync at this time
+## 2026-03-31 01:03 UTC
+- Attempted sync at 2026-03-31T01:03 UTC
+- Status: SKIPPED — Fabric CLI not installed, no MCP server configured
+- Checked for fabric CLI: not found
+- Checked mcporter servers: none configured
+- No Fabric authentication credentials found on system
+- No new items could be synced without Fabric access
+- Last successful sync remains: 2026-03-25 (Facebook share page)
 - Total synced: 2 bookmark files in fabric/bookmark/
