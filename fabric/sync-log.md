@@ -88,3 +88,11 @@
 - Fabric API key present in environment but unreachable
 - Last successful sync remains: 2026-03-25 (Facebook share page)
 - Total synced: 2 bookmark files in fabric/bookmark/
+
+## 2026-03-31 13:04 UTC
+- Attempted sync at 2026-03-31 13:04 UTC
+- Status: SKIPPED — No network connectivity
+- Cannot reach platform.fabric.io (DNS/resolution failure)
+- Fabric API key is set but unreachable
+- Last successful sync remains: 2026-03-25 (Facebook share page - e226fe8e-853c-497d-9ef3-0ae938bca1b4)
+- Total synced: 2 bookmark files in fabric/bookmark/
