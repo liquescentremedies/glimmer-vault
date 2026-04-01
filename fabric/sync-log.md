@@ -104,3 +104,12 @@
 - Fabric API key present but server unreachable
 - Last successful sync remains: 2026-03-25 (Facebook share page - e226fe8e-853c-497d-9ef3-0ae938bca1b4)
 - Total synced: 2 bookmark files in fabric/bookmark/
+
+## 2026-04-01 07:03 UTC
+- Attempted sync at 2026-04-01 07:03 UTC
+- Status: SKIPPED — Cannot resolve platform.fabric.io
+- DNS resolution failing for Fabric's domain (curl: Could not resolve host: platform.fabric.io)
+- Other services (GitHub) reachable - this is a Fabric-specific connectivity issue
+- No Fabric CLI or MCP server installed on this system
+- Last successful sync remains: 2026-03-25 (Facebook share page)
+- Total synced: 2 bookmark files in fabric/bookmark/
