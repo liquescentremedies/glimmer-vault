@@ -23,3 +23,4 @@
 [2026-03-31T23:21:46+00:00] Fabric MCP tools (find-fabric-items, create-fabric-note) not available — skipping sync
 [2026-04-01T05:21:53+00:00] Fabric MCP tools not available (find-fabric-items, create-fabric-note not found)
 [2026-04-01T11:22:28Z] Fabric MCP tools unavailable (find-fabric-items, create-fabric-note not in tool registry) — skipping.
+[2026-04-01T19:04:00Z] Sync complete - No new items. Most recent item still from 2026-03-25.

@@ -1,10 +1,10 @@
 ---
-title: "DCOS Memory Hub Setup — Notion as Cognitive Backbone"
 date: 2026-03-10
 platform: Claude
 device: Surface Pro
 momentum: High
 energy: 8
+tags: [DCOS, Notion, Memory]
 ---
 
 # DCOS Memory Hub Setup — Notion as Cognitive Backbone
@@ -29,5 +29,4 @@ Built the Notion-based persistent memory layer for the DCOS. Created: 🧠 DCOS 
 OpenClaw/Glimmer: mid-execution, Glimmer_OpenClaw.zip provided to fix missing ~/agents config. HPLIP install still outstanding for Pop!_OS scanning setup. Memory Hub now live and seeded.
 
 ---
-
-*Source: Notion Session Log [31e755ec-7e2c-81f9-8fca-da1d99c08087](https://www.notion.so/DCOS-Memory-Hub-Setup-Notion-as-Cognitive-Backbone-31e755ec7e2c81f98fcada1d99c08087)*
+Source: Notion Session Log (ID: 31e755ec-7e2c-81f9-8fca-da1d99c08087)
