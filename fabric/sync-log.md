@@ -151,3 +151,12 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 
 2026-04-02T07:07:46.759Z ─── Fabric sync started at 2026-04-02T07:07:46.769Z (cutoff: 2026-04-02T01:07:46.779Z) ───
 Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved in last 6 hours.
+
+## 2026-04-02 13:04 UTC
+- Sync run at 2026-04-02T13:04 UTC
+- Status: SKIPPED — Fabric MCP tools not available on this system
+- No CLI or MCP server configured for Fabric access
+- Last successful sync remains: 2026-03-25 (Facebook share page)
+- Total synced: 2 bookmark files in fabric/bookmark/
+- No new items to sync
+
