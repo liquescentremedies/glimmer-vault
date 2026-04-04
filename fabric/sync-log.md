@@ -187,3 +187,7 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Note: "fabric" command not found; previous syncs used Fabric REST API directly
 - Existing synced: 2 bookmark files in fabric/bookmark/
 - No new items downloaded
+
+[2026-04-04T13:05:49Z] Cron sync complete:
+- Synced 14 bookmarks from vault/+Inbox/
+- 16 total bookmarks, 0 articles in fabric/ folder
