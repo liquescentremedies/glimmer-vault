@@ -180,3 +180,10 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Existing synced: 2 bookmark files in fabric/bookmark/
 - No new items to download
 
+
+## 2026-04-04 01:04 UTC
+- Sync run at 2026-04-04T01:04 UTC (cron job)
+- Status: SKIPPED — Fabric CLI/skill not available on this system
+- Note: "fabric" command not found; previous syncs used Fabric REST API directly
+- Existing synced: 2 bookmark files in fabric/bookmark/
+- No new items downloaded
