@@ -191,3 +191,13 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 [2026-04-04T13:05:49Z] Cron sync complete:
 - Synced 14 bookmarks from vault/+Inbox/
 - 16 total bookmarks, 0 articles in fabric/ folder
+
+## 2026-04-04 20:05 UTC
+- Sync run at 2026-04-04T20:05 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Checked items created since last sync (2026-04-04T13:05:49Z)
+- Total items in Fabric: 4491
+- New items since last sync: **0**
+- Most recent item: Screenshot_20260329_015212 (263becc1...) - created 2026-03-28T14:52:12Z
+- Existing synced: 16 bookmark files in fabric/bookmark/
+- No new items to download
