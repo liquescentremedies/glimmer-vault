@@ -221,3 +221,14 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Most recent item: Screenshot_20260329_015212 - created 2026-03-28T14:52:12Z
 - Existing synced: 16 bookmark files in fabric/bookmark/
 - No new items to download
+
+## 2026-04-05 22:25 UTC
+- Sync run at 2026-04-05T22:25 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Checked items created since last sync (2026-04-05T16:20:00Z, 6h window)
+- Total items in Fabric: 4492
+- New items in window: **1**
+  - `58aadb6d-eadf-...` | bookmark | "ChatGPT interface and privacy notes" | created 2026-04-05T08:25:49Z
+- Content extracted from Fabric reader API (webnote-text endpoint)
+- Saved to fabric/bookmark/fabric-2026-04-05-chatgpt-interface-and-privacy-notes.md
+- Git commit below
