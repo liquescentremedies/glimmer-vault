@@ -201,3 +201,23 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Most recent item: Screenshot_20260329_015212 (263becc1...) - created 2026-03-28T14:52:12Z
 - Existing synced: 16 bookmark files in fabric/bookmark/
 - No new items to download
+
+## 2026-04-05 02:03 UTC
+- Sync run at 2026-04-05T02:03 UTC (cron job)
+- Status: SKIPPED — Cannot reach Fabric API
+- Attempted endpoints: api.fabric.so/v2/resources/filter, api.fabric.so/v2/resources/list, platform.fabric.io
+- All connection attempts failed (connect timeout, HTTP 404, or Zod validation errors)
+- Fabric API key is present but endpoints appear unavailable or changed
+- Last successful sync remains: 2026-04-04 (14 bookmarks synced from vault/+Inbox/)
+- Existing synced: 16 bookmark files in fabric/bookmark/
+- No new items could be checked or downloaded
+
+## 2026-04-05 06:20 UTC
+- Sync run at 2026-04-05T06:20 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Checked items created or modified since 2026-04-05T00:20:00Z (6h window)
+- Total items in Fabric: ~4491
+- New items in window: **0**
+- Most recent item: Screenshot_20260329_015212 - created 2026-03-28T14:52:12Z
+- Existing synced: 16 bookmark files in fabric/bookmark/
+- No new items to download
