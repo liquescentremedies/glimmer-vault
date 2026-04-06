@@ -276,3 +276,19 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Existing synced: 17 bookmark files in fabric/bookmark/ + notes/articles
 - No new items to download
 - Git commit: sessions/2026-04-06.md updated
+## 2026-04-06 14:04 UTC
+- Sync run at 2026-04-06T14:04 UTC (cron job)
+- Status: SKIPPED — Network unreachable (DNS resolution failed for platform.fabric.io)
+- Last successful sync: 2026-04-05 14:04 UTC (17 bookmark files)
+- No new items to report
+- Existing synced: 17 bookmark files in fabric/bookmark/
+
+## 2026-04-06 20:03 UTC
+- Sync run at 2026-04-06T20:03 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Checked items created since last successful sync (2026-04-05T14:00:00Z)
+- Total items in Fabric: 4493
+- New items in window: **0**
+- Most recent items all predate the 6-hour window from last sync
+- Existing synced: 17 bookmark files in fabric/bookmark/
+- No new items to download
