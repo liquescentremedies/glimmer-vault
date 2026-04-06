@@ -248,3 +248,14 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Most recent item already synced: ChatGPT interface and privacy notes (2026-04-05T08:25:49Z)
 - Existing synced: 17 bookmark files in fabric/bookmark/
 - No new items to download
+
+## 2026-04-06 04:20 UTC
+- Sync run at 2026-04-06T04:20 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Checked items created since last sync (2026-04-05T22:25:00Z, 6h window)
+- Total items in Fabric: 4493
+- New items in window: **0**
+- Most recent item: Neurodivergent guides to sex and consent (53c3cdfe...) - created 2026-04-05T16:54:15Z
+- Existing synced: 17 bookmark files in fabric/bookmark/
+- No new items to download
+- Git commit: nothing to commit (working tree clean)
