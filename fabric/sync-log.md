@@ -301,3 +301,16 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Existing synced: 17 bookmark files in fabric/bookmark/
 - No new items to sync
 - Git commit: fabric-sync: 2026-04-07-0023
+## 2026-04-07T06:34:58.292432+00:00
+- Synced 1 new items
+  - [Untitled video capture](audio/fabric-2026-04-07-untitled-video-capture.md)
+
+## 2026-04-07T06:38:43Z
+- Sync run via scheduled agent (Fabric REST API v2)
+- Items modified in last 6 hours fetched via  filter
+- 1 new item synced: **Untitled video capture** (video, with transcript)
+  - Folder: audio/
+  - ID: 0f43ff98-820d-4880-a219-0bca76c3391b
+  - Modified: 2026-04-07T04:39:02Z
+- Voicenote 'Voice note audio check' (modified: 2026-04-07T00:01:41Z) was just outside the 6h window
+- Git commit: fabric-sync: 2026-04-07-0638
