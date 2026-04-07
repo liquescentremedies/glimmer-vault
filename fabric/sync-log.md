@@ -314,3 +314,4 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
   - Modified: 2026-04-07T04:39:02Z
 - Voicenote 'Voice note audio check' (modified: 2026-04-07T00:01:41Z) was just outside the 6h window
 - Git commit: fabric-sync: 2026-04-07-0638
+- 2026-04-07T12:24:31Z Sync attempt: Fabric MCP unavailable (CLI not in PATH, tools not registered). Error logged to sync-errors.log.
