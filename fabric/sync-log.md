@@ -307,7 +307,7 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 
 ## 2026-04-07T06:38:43Z
 - Sync run via scheduled agent (Fabric REST API v2)
-- Items modified in last 6 hours fetched via  filter
+- Items modified in last 6 hours fetched via `modifiedAfter` filter
 - 1 new item synced: **Untitled video capture** (video, with transcript)
   - Folder: audio/
   - ID: 0f43ff98-820d-4880-a219-0bca76c3391b
