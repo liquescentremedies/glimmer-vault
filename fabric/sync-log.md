@@ -292,3 +292,12 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Most recent items all predate the 6-hour window from last sync
 - Existing synced: 17 bookmark files in fabric/bookmark/
 - No new items to download
+
+## 2026-04-07 04:20 UTC
+- Sync run at 2026-04-07T04:20 UTC (scheduled agent)
+- Status: SKIPPED — Fabric MCP tools unavailable (fabric-mcp not in PATH, not installed via pip/npm)
+- Checked for MCP tools: not found
+- Last successful sync: 2026-04-05 14:04 UTC (17 bookmark files)
+- Existing synced: 17 bookmark files in fabric/bookmark/
+- No new items to sync
+- Git commit: fabric-sync: 2026-04-07-0023
