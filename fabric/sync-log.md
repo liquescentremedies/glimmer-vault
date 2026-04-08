@@ -315,3 +315,13 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Voicenote 'Voice note audio check' (modified: 2026-04-07T00:01:41Z) was just outside the 6h window
 - Git commit: fabric-sync: 2026-04-07-0638
 - 2026-04-07T12:24:31Z Sync attempt: Fabric MCP unavailable (CLI not in PATH, tools not registered). Error logged to sync-errors.log.
+
+## 2026-04-08 18:30 UTC
+- Sync run at 2026-04-08T18:30 UTC (scheduled agent)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Checked 50 items for created/modified within last 6 hours (window: 2026-04-08T12:30–18:30 UTC)
+- New items in window: **0**
+- Most recent item: "The Neurodivergent's Guide to Sex" (535e5b50...) — saved 2026-04-08T10:01:04Z (just outside 6h window)
+- Existing synced: 17 bookmark files in fabric/bookmark/ + audio/article notes
+- No new items to download
+- Git commit: nothing to commit (working tree clean)
