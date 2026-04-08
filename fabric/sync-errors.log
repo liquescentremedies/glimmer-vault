@@ -42,3 +42,5 @@
 [2026-04-07T12:23:50Z] Fabric MCP tools unavailable (fabric CLI not in PATH, MCP tools not registered). Skipping sync.
 [2026-04-07T18:22:26Z] Fabric MCP tools (find-fabric-items, create-fabric-note) not available — skipped
 [2026-04-08T00:23:26Z] Fabric MCP tools (find-fabric-items, create-fabric-note) not available — skipped
+[2026-04-08T06:21:46Z] Fabric MCP tools not available (find-fabric-items, create-fabric-note not found)
+[2026-04-08T12:23:15Z] Fabric MCP tools not available - skipping sync
