@@ -325,3 +325,14 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Existing synced: 17 bookmark files in fabric/bookmark/ + audio/article notes
 - No new items to download
 - Git commit: nothing to commit (working tree clean)
+
+## 2026-04-09 06:30 UTC
+- Sync run at 2026-04-09T06:30 UTC (scheduled agent)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Checked items modified since last sync (2026-04-09T00:30:00Z, 6h window)
+- Total items in Fabric: 4496
+- Items in window: **0** — no new items to sync
+- Most recent item: The Neurodivergent's Guide to Sex (535e5b50...) — modified 2026-04-08T10:01:04Z
+- Existing synced: 17 bookmark files in fabric/bookmark/ + audio/article notes
+- Git commit: fabric-sync: 2026-04-09-0631
+- Note: Fabric MCP tools (find-fabric-items, create-fabric-note) remain unavailable; using REST API as fallback
