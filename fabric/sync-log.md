@@ -336,3 +336,14 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Existing synced: 17 bookmark files in fabric/bookmark/ + audio/article notes
 - Git commit: fabric-sync: 2026-04-09-0631
 - Note: Fabric MCP tools (find-fabric-items, create-fabric-note) remain unavailable; using REST API as fallback
+## 2026-04-10 18:25 UTC
+- Sync run at 2026-04-10T18:25 UTC (scheduled agent)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Checked items created since last sync (2026-04-09T06:30:00Z, 6h window)
+- Total items in Fabric: 4497
+- Items in window: **0** — no new items to sync
+- Most recent item: "Weird call to Terry—DJ community dialogue" (2a21ab3c...) — saved 2026-04-09T07:01:55Z
+  - This item is ~35 hours old (outside 6h window)
+- Existing synced: fabric/bookmark/ + fabric/audio/ notes
+- Git commit: nothing to commit (working tree clean)
+- Note: Fabric MCP tools (find-fabric-items, create-fabric-note) unavailable; using REST API as fallback
