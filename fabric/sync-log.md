@@ -357,3 +357,22 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
   - bookmark: Claude Skills (ac6f5da0-a18c-4121-a8a0-70edd855c024) → fabric/bookmark/fabric-2026-04-12-claude-skills.md
 - Git commit: bdb7812
 - `2026-04-13T12:26:32.095Z` No new items in the last 6 hours (checked at 2026-04-13T12:26:32.095Z)
+
+## 2026-04-14 20:03 UTC
+- Sync run at 2026-04-14T20:03 UTC (scheduled agent)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4509
+- Backfill check: found 10 items created between 2026-04-11 and 2026-04-13 that were not captured by previous 6h-window syncs
+- New items synced: **10**
+  - bookmark: Fix Karpathy's LLM Wiki with a Knowledge Graph (e08e8ef2) → fabric/bookmark/fabric-2026-04-13-fix-karpathys-llm-wiki-with-a-knowledge-graph.md
+  - bookmark: Karpathy's second brain concept (9d3066f1) → fabric/bookmark/fabric-2026-04-13-karpathys-second-brain-concept.md
+  - bookmark: LLM knowledge bases for personal research (54248e1e) → fabric/bookmark/fabric-2026-04-13-llm-knowledge-bases-for-personal-research.md
+  - bookmark: Idea file: communicate ideas over code or apps (33aae98a) → fabric/bookmark/fabric-2026-04-13-idea-file-communicate-ideas-over-code-or-apps.md
+  - bookmark: Farzapedia diary-based wiki (f499a1a9) → fabric/bookmark/fabric-2026-04-13-farzapedia-diary-based-wiki.md
+  - bookmark: Google Docs publication link (8a62c951) → fabric/bookmark/fabric-2026-04-12-google-docs-publication-link.md
+  - bookmark: llm-council multi-model evaluation platform (c172e81f) → fabric/bookmark/fabric-2026-04-12-llm-council-multi-model-evaluation-platform.md
+  - bookmark: Ole Lehmann on X: Claude trust via LLM Council (23e0f216) → fabric/bookmark/fabric-2026-04-12-ole-lehmann-on-x-claude-trust-via-llm-council.md
+  - bookmark: LLM Council and multi-agent AI decision-making (cadb208e) → fabric/bookmark/fabric-2026-04-12-llm-council-and-multi-agent-ai-decision-making.md
+  - bookmark: Mobile Offline Actions Gemma (b4d165a8) → fabric/bookmark/fabric-2026-04-11-mobile-offline-actions-gemma.md
+- Note: Backfill detected items missed by previous syncs using modifiedAfter window; total bookmark folder now has 30 files
+- Sync timestamp: 2026-04-14T20:03:00Z
