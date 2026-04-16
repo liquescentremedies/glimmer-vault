@@ -62,3 +62,4 @@
 [2026-04-15T00:23:54Z] Fabric MCP tools not available (find-fabric-items, create-fabric-note not in tool registry). Also attempted direct API calls to api.fabric.so/v1/items - endpoints return 404. Fabric API may use different API structure. Skipping sync.
 [2026-04-15 12:26:49] Fabric MCP tools not available — skipping sync
 2026-04-15T18:23:29Z Fabric MCP tools not available (fabric-mcp binary not found)
+[2026-04-16T00:21:59Z] Fabric MCP tools (find-fabric-items, create-fabric-note) not available — skipping sync
