@@ -461,3 +461,14 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Git commit: 0c193a9
 - Folder counts: bookmark/ (39 files), note/ (6 files), image/ (3 files)
 - Sync timestamp: 2026-04-16T15:06:00Z
+
+## 2026-04-17 04:20 UTC
+- Sync run at 2026-04-17T04:20 UTC (scheduled agent)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Checked items created in last 6 hours (window: 2026-04-16T22:20–17T04:20 UTC)
+- New items in window: **0**
+- Most recent Fabric items remain from the previous sync run (InfraNodus login, AI State of the Union — both from 2026-04-14)
+- Total Fabric items: 4511
+- Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files)
+- Git commit: nothing to commit (working tree clean)
+- Note: Fabric MCP tools (find-fabric-items, create-fabric-note) remain unavailable; using REST API via X-Api-Key header
