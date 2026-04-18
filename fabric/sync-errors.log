@@ -69,3 +69,7 @@
 [2026-04-17T12:23:26Z] Fabric MCP tools not available - skipping sync
 [2026-04-18T00:22:47Z] Fabric MCP tools (find-fabric-items, create-fabric-note) not available — used REST API fallback. Checked 50 items (last 6h), 0 new items synced.
 [2026-04-18T06:23:55Z] Fabric MCP tools not available — skipping sync
+
+[2026-04-18 18:25 UTC] fabric-sync: No items modified in last 6 hours.
+  Most recent item: 2026-04-14T21:15:22.827Z (InfraNodus login and thinking tool page)
+  Cutoff was: 2026-04-18T12:25:00 UTC
