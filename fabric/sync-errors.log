@@ -67,3 +67,5 @@
 2026-04-17T00:22:08Z - Fabric MCP tools not available
 [2026-04-17T06:22:44Z] Fabric MCP tools not available (find-fabric-items, create-fabric-note not found)
 [2026-04-17T12:23:26Z] Fabric MCP tools not available - skipping sync
+[2026-04-18T00:22:47Z] Fabric MCP tools (find-fabric-items, create-fabric-note) not available — used REST API fallback. Checked 50 items (last 6h), 0 new items synced.
+[2026-04-18T06:23:55Z] Fabric MCP tools not available — skipping sync
