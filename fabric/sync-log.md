@@ -562,3 +562,40 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file)
 - Note: Fabric CLI works; REST API via X-Api-Key header used for filtering
 - Sync timestamp: 2026-04-18T12:15:00Z
+
+## 2026-04-18 20:07 UTC
+- Sync run at 2026-04-18T20:07 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Checked items created/modified since last sync (2026-04-18T14:04:00Z)
+- Total items in Fabric: 4511 (unchanged)
+- New items since last sync: **0**
+- Most recent Fabric item: InfraNodus login (f4215c7f) - modified 2026-04-14T21:15Z (already synced)
+- No new items to download or categorise
+- Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files)
+- Updated .last-sync to 2026-04-18T20:07:00Z
+
+## 2026-04-19 02:06 UTC
+- Sync run at 2026-04-19T02:06 UTC (scheduled cron)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4511 (unchanged since last sync)
+- New items since last sync (2026-04-18T20:07:00Z): **0**
+- Most recent Fabric items remain:
+  - InfraNodus login (f4215c7f) - created 2026-04-14T21:15Z (already synced)
+  - AI State of the Union (0eb33ae8) - created 2026-04-14T21:00Z (already synced)
+- No new items to download or categorise
+- Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file) = 52 total files
+- Note: Fabric REST API via X-Api-Key header
+- Updated .last-sync to 2026-04-19T02:06:00Z
+
+## $(date -u +%Y-%m-%dT%H:%M:%SZ) UTC
+- Sync run at $(date -u +%Y-%m-%dT%H:%M:%SZ) UTC (scheduled agent)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4511 (unchanged since last sync)
+- New items since last sync (2026-04-19T02:06:00Z): **0**
+- Most recent Fabric items remain:
+  - InfraNodus login (f4215c7f) - created 2026-04-14T21:15Z (already synced)
+  - AI State of the Union (0eb33ae8) - created 2026-04-14T21:00Z (already synced)
+- No new items to download or categorise
+- Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file) = 52 total files
+- Note: Fabric REST API via X-Api-Key header
+- Updated .last-sync to $(date -u +%Y-%m-%dT%H:%M:%SZ)
