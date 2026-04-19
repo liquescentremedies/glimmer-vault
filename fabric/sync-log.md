@@ -624,3 +624,15 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - No new items to download or categorise
 - Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file) = 52 total files
 - Git committed: fabric-sync: 2026-04-19-0627
+
+## 2026-04-19 14:06 UTC
+- Sync run at 2026-04-19T14:06 UTC (scheduled cron agent)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Checked items modified since last sync (2026-04-19T12:20:00Z)
+- Total items in Fabric: 4511
+- Most recent Fabric item: InfraNodus login (f4215c7f) - modified 2026-04-14T21:15Z
+- New items since last sync: **0** (no items modified since last sync)
+- Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file)
+- Note: API filter `modifiedAfter` not working as expected — using most-recent-item comparison as fallback
+- Updated .last-sync to 2026-04-19T14:06:00Z
+
