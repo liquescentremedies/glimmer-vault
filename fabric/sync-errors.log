@@ -74,3 +74,4 @@
   Most recent item: 2026-04-14T21:15:22.827Z (InfraNodus login and thinking tool page)
   Cutoff was: 2026-04-18T12:25:00 UTC
 [2026-04-20T00:22:17Z] Fabric MCP tools (find-fabric-items, create-fabric-note) not available — skipping sync
+[2026-04-20T12:24:22Z] Fabric MCP tools not available (find-fabric-items, create-fabric-note not found)
