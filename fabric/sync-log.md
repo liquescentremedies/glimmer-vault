@@ -684,3 +684,16 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Note: Using REST API via X-Api-Key header (x-api-key)
 - Updated .last-sync to 2026-04-20T08:04:00Z
 
+
+## 2026-04-20 14:07 UTC
+- Sync run at 2026-04-20T14:07 UTC (scheduled agent)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Checked items modified since last sync (2026-04-20T08:04:00Z)
+- Total items in Fabric: 4511 (unchanged since Apr 14)
+- New items since last sync: **0**
+- Most recent Fabric item: InfraNodus login (f4215c7f) - modified 2026-04-14T21:15Z
+- Last sync time (2026-04-20T08:04:00Z) is AFTER most recent Fabric activity
+- No new items to download or categorise
+- Existing synced categories: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files)
+- Note: Fabric MCP tools unavailable; using REST API via X-Api-Key header
+- Updated .last-sync timestamp preserved at 2026-04-20T08:04:00Z

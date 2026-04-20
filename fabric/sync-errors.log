@@ -75,3 +75,4 @@
   Cutoff was: 2026-04-18T12:25:00 UTC
 [2026-04-20T00:22:17Z] Fabric MCP tools (find-fabric-items, create-fabric-note) not available — skipping sync
 [2026-04-20T12:24:22Z] Fabric MCP tools not available (find-fabric-items, create-fabric-note not found)
+[2026-04-20T18:23:11Z] Fabric MCP tools not available (find-fabric-items, create-fabric-note not in tool registry). Skipping sync.
