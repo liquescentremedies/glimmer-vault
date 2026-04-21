@@ -744,3 +744,28 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file) = 52 total files
 - Note: Using REST API via X-Api-Key header
 - Updated .last-sync to 2026-04-21T08:05:00Z
+
+## 2026-04-21T14:08 UTC
+- Sync run at 2026-04-21T14:08 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4511 (unchanged since Apr 14)
+- Checked items modified since last sync (2026-04-21T22:30:00Z)
+- New items since last sync: **0**
+- Most recent Fabric item: InfraNodus login (f4215c7f) - modified 2026-04-14T21:15Z (already synced)
+- No new items to download or categorise
+- Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file) = 52 total files
+- Note: Using REST API via X-Api-Key header
+- Updated .last-sync timestamp preserved at 2026-04-21T22:30:00Z (no change — no new items)
+
+## 2026-04-21T20:05 UTC
+- Sync run at 2026-04-21T20:05 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4511 (unchanged since Apr 14)
+- Last-sync timestamp currently set to 2026-04-21T22:30:00Z (future timestamp from prior run)
+- No items can be newer than a future last-sync time — **0 new items**
+- Most recent Fabric item: InfraNodus login (f4215c7f) - already synced ( Apr 14)
+- All 20 most recent items from `fabric list` already present in vault
+- No new items to download or categorise
+- Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file) = 52 total files
+- Note: Using REST API via X-Api-Key header
+- Last-sync timestamp preserved at 2026-04-21T22:30:00Z (no change — no new items)

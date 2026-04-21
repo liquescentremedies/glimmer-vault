@@ -77,3 +77,4 @@
 [2026-04-20T12:24:22Z] Fabric MCP tools not available (find-fabric-items, create-fabric-note not found)
 [2026-04-20T18:23:11Z] Fabric MCP tools not available (find-fabric-items, create-fabric-note not in tool registry). Skipping sync.
 2026-04-21T00:22:12Z - Fabric MCP tools not available (find-fabric-items, create-fabric-note not in tool registry)
+[2026-04-21T18:22:37Z] Fabric MCP tools not available (find-fabric-items, create-fabric-note not found in toolset). Skipping sync.
