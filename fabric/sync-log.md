@@ -4655,3 +4655,11 @@
 - No new items to download or categorise
 - Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file) = 52 total files
 -
+## 2026-04-22T14:07 UTC
+- Sync run at 2026-04-22T14:07 UTC (cron job)
+- Fabric REST API v2 at https://api.fabric.so/v2/resources/filter
+- Connectivity check: **FAILED** - api.fabric.so unreachable or timing out
+- Could not verify current item count
+- Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file) = 52 total files
+- Note: REST API connectivity issue - Fabric may be down or network path blocked
+- Did not update .last-sync (preserving prior value: 2026-04-22T08:07:00Z)

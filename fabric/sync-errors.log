@@ -79,3 +79,4 @@
 2026-04-21T00:22:12Z - Fabric MCP tools not available (find-fabric-items, create-fabric-note not in tool registry)
 [2026-04-21T18:22:37Z] Fabric MCP tools not available (find-fabric-items, create-fabric-note not found in toolset). Skipping sync.
 [2026-04-22T22:25:00Z] Fabric sync failed: API endpoint timed out (POST https://api.fabric.so/v2/resources/filter - 10s timeout, no response). Fabric MCP tools not available. No new items synced.
+2026-04-22T18:26:27Z Fabric MCP tools not available — skipping sync
