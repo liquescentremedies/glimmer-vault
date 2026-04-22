@@ -769,3 +769,16 @@ Checked 50 items. Newest item: Facebook share page (2026-03-25). No items saved 
 - Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file) = 52 total files
 - Note: Using REST API via X-Api-Key header
 - Last-sync timestamp preserved at 2026-04-21T22:30:00Z (no change — no new items)
+
+## 2026-04-22 02:06 UTC
+- Sync run at 2026-04-22T02:06 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4511 (unchanged since Apr 14)
+- New items since last sync (2026-04-21T20:04:00Z): **0**
+- Most recent Fabric items remain:
+  - InfraNodus login (f4215c7f) - created 2026-04-14T21:15Z (already synced)
+  - AI State of the Union (0eb33ae8) - created 2026-04-14T21:00Z (already synced)
+- No new items to download or categorise
+- Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file) = 52 total files
+- Note: Using REST API via X-Api-Key header
+- Updated .last-sync to 2026-04-22T02:06:00Z
