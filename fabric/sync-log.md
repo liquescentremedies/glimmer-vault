@@ -4663,3 +4663,27 @@
 - Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file) = 52 total files
 - Note: REST API connectivity issue - Fabric may be down or network path blocked
 - Did not update .last-sync (preserving prior value: 2026-04-22T08:07:00Z)
+
+## 2026-04-22 20:11 UTC
+- Sync run at 2026-04-22T20:11 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4511 (unchanged since Apr 14)
+- Checked items modified since last sync (2026-04-22T08:07:00Z)
+- New items since last sync: **0**
+- Most recent Fabric item: InfraNodus login (f4215c7f) - modified 2026-04-14T21:15Z (already synced)
+- No new items to download or categorise
+- Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file) = 52 total files
+- Note: Fabric REST API via X-Api-Key header
+- Updated .last-sync to 2026-04-22T20:11:00Z
+
+## 2026-04-23T02:07 UTC
+- Sync run at 2026-04-23T02:07 UTC (scheduled cron)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4511 (unchanged since Apr 14)
+- Checked items modified since last sync (2026-04-22T20:11:00Z)
+- New items since last sync: **0**
+- Most recent Fabric item: InfraNodus login (f4215c7f) - modified 2026-04-14T21:15Z (already synced)
+- No new items to download or categorise
+- Existing synced: fabric/bookmark/ (39 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file) = 52 total files
+- Note: Fabric REST API via X-Api-Key header
+- Updated .last-sync to 2026-04-23T02:07:00Z
