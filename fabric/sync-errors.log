@@ -81,3 +81,4 @@
 [2026-04-22T22:25:00Z] Fabric sync failed: API endpoint timed out (POST https://api.fabric.so/v2/resources/filter - 10s timeout, no response). Fabric MCP tools not available. No new items synced.
 2026-04-22T18:26:27Z Fabric MCP tools not available — skipping sync
 2026-04-23T12:22:59+00:00 - Fabric MCP tools not available. Skipping sync.
+Fri Apr 24 06:23:21 UTC 2026: Fabric MCP not available - fabric-mcp binary not found
