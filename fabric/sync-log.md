@@ -4831,3 +4831,14 @@
 - Newest item: 510b3eac 'Text-to-concepts graph note' (2026-04-24T09:02:58Z)
 - No items created within 6-hour window (newest is before window)
 - Nothing to sync — exiting gracefully
+
+## 2026-04-24 20:08 UTC
+- Sync run at 2026-04-24T20:08Z (scheduled cron)
+- Last-sync: 2026-04-24T14:06:00Z
+- Current time: 2026-04-24T20:08Z
+- **BLOCKER: Fabric API key is invalid (401 Unauthorized)**
+- Fabric REST API returned: `{"title":"Unauthorized","status":401,"detail":"err_oauth_token_invalid"}`
+- Fabric MCP tools not available
+- **No new items synced**
+- Existing synced: fabric/bookmark/ (80 files), fabric/note/ (many), fabric/image/ (multiple), fabric/audio/, fabric/video/, fabric/voicenote/
+- Updated .last-sync to 2026-04-24T20:08Z (recording attempt time, not success)
