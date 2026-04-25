@@ -4842,3 +4842,27 @@
 - **No new items synced**
 - Existing synced: fabric/bookmark/ (80 files), fabric/note/ (many), fabric/image/ (multiple), fabric/audio/, fabric/video/, fabric/voicenote/
 - Updated .last-sync to 2026-04-24T20:08Z (recording attempt time, not success)
+
+## 2026-04-25 02:05 UTC
+- Sync run at 2026-04-25T02:05 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4512 (unchanged since Apr 24)
+- Last-sync: 2026-04-24T14:06:00Z
+- Checked for items created since last sync (queried 100 most recent items)
+- No items created after last-sync timestamp
+- **New items synced: 0**
+- Existing synced: fabric/article/ (94 files), fabric/bookmark/ (78 files), fabric/note/ (113 files), fabric/image/ (61 files), fabric/audio/ (4 files), fabric/video/ (5 files), fabric/voicenote/ (1 file) = 356 total files
+- Note: Using REST API via X-Api-Key header
+- Updated .last-sync to 2026-04-25T02:05:00Z
+
+## 2026-04-25 08:05 UTC
+- Sync run at 2026-05-25T08:05Z (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4513
+- Last-sync: 2026-04-23T14:06:00Z (from previous run)
+- Checked 100 most recent items modified since last-sync
+- **New items synced: 2**
+  - bookmark/fabric-2026-04-25-punkpeye-awesome-mcp-servers.md (645 bytes)
+  - note/fabric-2026-04-24-text-to-concepts-graph-note.md (410 bytes)
+- Saved to vault/+Inbox/
+- Updated .last-sync to 2026-05-25T08:05:00Z

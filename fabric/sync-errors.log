@@ -83,3 +83,5 @@
 2026-04-23T12:22:59+00:00 - Fabric MCP tools not available. Skipping sync.
 Fri Apr 24 06:23:21 UTC 2026: Fabric MCP not available - fabric-mcp binary not found
 [2026-04-25T10:20:00Z] Fabric MCP tools not available (find-fabric-items not found in MCP manifest). Skipping sync gracefully.
+[2026-04-25T06:25:40Z] Fabric MCP tools not available (find-fabric-items not found in MCP manifest). Skipping sync gracefully.
+[2026-04-25T12:24:50+00:00] Fabric MCP tools (find-fabric-items, create-fabric-note) not available — skipping sync
