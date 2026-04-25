@@ -4866,3 +4866,12 @@
   - note/fabric-2026-04-24-text-to-concepts-graph-note.md (410 bytes)
 - Saved to vault/+Inbox/
 - Updated .last-sync to 2026-05-25T08:05:00Z
+## 2026-04-25 14:07 UTC
+- Sync run at 2026-04-25T14:07 UTC (scheduled cron)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Fetched 500 most recent items (paginated)
+- **New items synced: 1**
+  - bookmark/fabric-2026-04-25-16f23261-SuperSplat-browser-based-3D-Gaussian-Splat-editor.md (286 bytes)
+- Note: Script timed out during pagination but successfully synced the one new item found
+- Updated .last-sync to 2026-04-25T14:06:37Z
+
