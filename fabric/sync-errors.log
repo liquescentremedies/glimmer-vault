@@ -89,3 +89,4 @@ Fri Apr 24 06:23:21 UTC 2026: Fabric MCP not available - fabric-mcp binary not f
 [2026-04-26 06:23:44] Fabric MCP tools not available on this system. Skipping sync.
 [2026-04-26 22:20 UTC] Fabric MCP tools not available (find-fabric-items, create-fabric-note not in toolset). Skipping sync.
 2026-04-26T13:49:00Z | Auth failed: 401 Unauthorized (token_invalid) | API key may be revoked
+[2026-04-27 04:20 UTC] Fabric MCP tools (find-fabric-items, create-fabric-note) not available — skipping sync
