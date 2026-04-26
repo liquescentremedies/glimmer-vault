@@ -4885,3 +4885,49 @@
 - No items created after last-sync timestamp
 - **New items synced: 0**
 - Git commit: 96d16a0 (fabric-sync: 2026-04-25-1826)
+
+## 2026-04-25 20:11 UTC
+- Sync run at 2026-04-25T20:11 UTC (scheduled cron)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4514
+- Last-sync: 2026-04-25T14:06:37Z
+- Checked items newer than last-sync via 100-item paginated query
+- No items created after last-sync timestamp
+- **New items synced: 0**
+- Existing synced: fabric/article/ (94 files), fabric/bookmark/ (78 files), fabric/note/ (113 files), fabric/image/ (61 files), fabric/audio/ (4 files), fabric/video/ (5 files), fabric/voicenote/ (1 file) = 356 total files
+- Updated .last-sync timestamp maintained
+
+## 2026-04-26 02:05 UTC
+- Sync run at 2026-04-26T02:05 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4514 (up from 4511 since Apr 24)
+- Last-sync: 2026-04-25T08:07:22Z
+- Synced items modified since last sync
+- **New items found: 1**
+  - "SuperSplat: browser-based 3D Gaussian Splat editor" (bookmark, 16f23261) — created 2026-04-25
+    - URL: https://x.com/i/status/2047728492616581484
+    - Source: inbox
+    - Saved to: fabric/bookmark/fabric-2026-04-25-16f23261-SuperSplat-browser-based-3D-Gaussian-Splat-editor.md
+- Existing synced (before this run): fabric/bookmark/ (79 files), fabric/note/ (6 files), fabric/article/ (94 files), fabric/audio/ (2 files), fabric/image/ (3 files), fabric/video/ (1 file), fabric/voicenote/ (1 file) = 186 total files
+- Updated .last-sync to 2026-04-26T02:05:00Z
+
+## 2026-04-26 08:08 UTC
+- Sync run at 2026-04-26T08:08 UTC (scheduled cron)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4514 (unchanged since Apr 25)
+- Last-sync: 2026-04-26T02:05:00Z
+- Checked 100 most recent items via paginated query
+- No items created after last-sync timestamp
+- **New items synced: 0**
+- Existing synced: fabric/article/ (94 files), fabric/bookmark/ (79 files), fabric/note/ (113 files), fabric/image/ (61 files), fabric/audio/ (4 files), fabric/video/ (5 files), fabric/voicenote/ (1 file) = 357 total files
+- Updated .last-sync to 2026-04-26T08:08:00Z
+
+## 2026-04-26 13:49 UTC
+- Sync run at 2026-04-26T13:49 UTC (cron job)
+- Fabric API auth failed: 401 Unauthorized — token appears invalid/expired
+- Previous successful runs (Apr 26 02:05) used the same key and worked
+- Likely cause: Fabric API key has been revoked or reset since last successful sync
+- **New items synced: 0**
+- Vault unchanged: fabric/article/ (94), fabric/bookmark/ (79), fabric/note/ (113), fabric/image/ (61), fabric/audio/ (4), fabric/video/ (5), fabric/voicenote/ (1), fabric/highlight/ (0) = 357 total files
+- No .last-sync update (auth failure prevents reliable check)
+
