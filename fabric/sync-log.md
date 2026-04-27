@@ -5001,3 +5001,30 @@
 - **New items found: 0** — most recent Fabric items (2026-04-26T08:49) predate last-sync timestamp (2026-04-26T14:06)
 - No items newer than 6-hour window
 - Updated .last-sync to 2026-04-27T06:25:00Z
+
+## 2026-04-27T08:07 UTC
+- Sync run at 2026-04-27T08:07 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4643 (unchanged since Apr 26)
+- Last-sync: 2026-04-27T06:25:00.000Z (from .last-sync)
+- Checked for items created after last-sync timestamp (2026-04-27T06:25:00Z)
+- Most recent item in Fabric: "Ideas Database Summary" (413ee302) — created 2026-04-26T08:49:51Z
+- **New items synced: 0** — no Fabric items created after last-sync timestamp
+- Existing synced: fabric/article/ (94 files), fabric/bookmark/ (79 files), fabric/note/ (133 files), fabric/image/ (61 files), fabric/audio/ (4 files), fabric/video/ (5 files), fabric/voicenote/ (1 file), fabric/highlight/ (0) = 377 total files
+- Updated .last-sync preserved at 2026-04-27T06:25:00.000Z
+
+## 
+- Sync run at  (scheduled agent)
+- Fabric API key is invalid (401 Unauthorized - token revoked/invalid)
+- Fabric MCP tools (find-fabric-items, create-fabric-note) not available on this system
+- **No new items synced** — API auth failure
+- Jennifer needs to regenerate FABRIC_API_KEY at https://fabric.so/settings/api-keys and update it in Zo Settings > Advanced
+
+
+## 2026-04-27T12:33Z
+- Sync run at 2026-04-27T12:33Z (scheduled agent)
+- Fabric API key is invalid (401 Unauthorized - token revoked/invalid)
+- Fabric MCP tools (find-fabric-items, create-fabric-note) not available on this system
+- **No new items synced** — API auth failure
+- Jennifer needs to regenerate FABRIC_API_KEY at https://fabric.so/settings/api-keys and update in Zo Settings > Advanced
+
