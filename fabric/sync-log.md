@@ -4972,3 +4972,32 @@
 - Existing synced: fabric/article/ (94 files), fabric/bookmark/ (79 files), fabric/note/ (133 files), fabric/image/ (61 files), fabric/audio/ (4 files), fabric/video/ (5 files), fabric/voicenote/ (1 file), fabric/highlight/ (0) = 377 total files
 - Updated .last-sync timestamp preserved at 2026-04-26T14:06:00Z
 
+
+## 2026-04-27 10:27 UTC (scheduled agent)
+- Sync run at 2026-04-27T10:27 UTC (scheduled agent trigger)
+- Searched for items created after last-sync: 2026-04-26T14:06:00Z
+- **New items synced: 0**
+- No Fabric items created between 14:06 UTC yesterday and now
+- Existing synced: fabric/article/ (94 files), fabric/bookmark/ (79 files), fabric/note/ (133 files), fabric/image/ (61 files), fabric/audio/ (4 files), fabric/video/ (5 files), fabric/voicenote/ (1 file), fabric/highlight/ (0) = 377 total files
+- Updated .last-sync timestamp preserved at 2026-04-26T14:06:00Z
+
+## 2026-04-27 02:05 UTC (cron job)
+- Sync run at 2026-04-27T02:05 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4643 (unchanged since Apr 26)
+- Last-sync: 2026-04-26T14:06:00Z
+- Checked items created after last sync
+- **New items synced: 0**
+- No Fabric items created between 14:06 UTC Apr 26 and now
+- Existing synced: fabric/article/ (94 files), fabric/bookmark/ (79 files), fabric/note/ (133 files), fabric/image/ (61 files), fabric/audio/ (4 files), fabric/video/ (5 files), fabric/voicenote/ (1 file), fabric/highlight/ (0) = 377 total files
+- Updated .last-sync timestamp preserved at 2026-04-26T14:06:00Z
+
+## 2026-04-27T06:25 UTC
+- Sync run at 2026-04-27T06:25 UTC (scheduled agent)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items from API (top 20): 20 (sorted by internal ordering)
+- Last-sync: 2026-04-26T14:06:00Z (from .last-sync)
+- Checked for items created in last 6 hours (since 2026-04-27T00:25 UTC)
+- **New items found: 0** — most recent Fabric items (2026-04-26T08:49) predate last-sync timestamp (2026-04-26T14:06)
+- No items newer than 6-hour window
+- Updated .last-sync to 2026-04-27T06:25:00Z
