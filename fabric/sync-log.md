@@ -5028,3 +5028,19 @@
 - **No new items synced** — API auth failure
 - Jennifer needs to regenerate FABRIC_API_KEY at https://fabric.so/settings/api-keys and update in Zo Settings > Advanced
 
+
+## 2026-04-27T14:04 UTC (cron job)
+- Sync run at 2026-04-27T14:04 UTC (cron job)
+- Fabric REST API v2 at https://api.fabric.so/v2/resources/filter
+- FABRIC_API_KEY is present but returns 401 Unauthorized (err_oauth_token_invalid)
+- **New items synced: 0** — API auth failure (token invalid/revoked)
+- Jennifer needs to regenerate FABRIC_API_KEY at https://fabric.so/settings/api-keys and update in Zo Settings > Advanced
+- Last successful sync remains: 2026-04-27T06:25:00.000Z
+
+## 2026-04-27T20:08 UTC (cron job)
+- Sync run at 2026-04-27T20:08 UTC (cron job)
+- Fabric REST API v2 at https://api.fabric.so/v2/resources/filter
+- FABRIC_API_KEY returns 401 Unauthorized (err_oauth_token_invalid) — token revoked/invalid
+- **New items synced: 0** — API auth failure
+- Jennifer needs to regenerate FABRIC_API_KEY at https://fabric.so/settings/api-keys and update it in Zo Settings > Advanced
+- Last successful sync remains: 2026-04-27T06:25:00.000Z
