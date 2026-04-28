@@ -1,3 +1,15 @@
+## 2026-04-28 14:06 UTC
+- Sync run at 2026-04-28T14:06 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4646
+- Last-sync: 2026-04-28T02:05:00Z
+- Checked for items created since last sync
+- Most recent Fabric item: "Fawn as Identity and Caregiving in AuDHD Life" (c5f1296c) - created 2026-04-27T12:01:46Z
+- **No new items synced** — all items in Fabric are older than last-sync timestamp
+- Existing synced: fabric/article/ (94 files), fabric/audio/ (4 files), fabric/bookmark/ (82 files), fabric/image/ (61 files), fabric/note/ (133 files), fabric/video/ (5 files), fabric/voicenote/ (1 files) = 380 total files
+- Note: Using REST API via X-Api-Key header
+- Updated .last-sync to 2026-04-28T14:06:00Z
+
 ## 2026-04-24 14:06 UTC
 - Sync run at 2026-04-24T14:06 UTC (cron job)
 - Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
