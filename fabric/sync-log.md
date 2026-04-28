@@ -5092,3 +5092,14 @@
 - Note: Fabric MCP tools (find-fabric-items, create-fabric-note) unavailable; using REST API via X-Api-Key header
 - Git commit: e7154f4
 - Updated .last-sync to 2026-04-28T18:35:00Z
+
+## 2026-04-28T20:11 UTC
+- Sync run at 2026-04-28T20:11 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4647
+- Last-sync: 2026-04-28T18:35:00Z
+- Checked items created/modified since last sync
+- **New items found: 0** — no new captures since last sync
+- Last item in Fabric: created 2026-04-28T15:30:37Z (before last sync window)
+- FABRIC_API_KEY confirmed valid
+- No changes to sync
