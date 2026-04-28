@@ -5044,3 +5044,23 @@
 - **New items synced: 0** — API auth failure
 - Jennifer needs to regenerate FABRIC_API_KEY at https://fabric.so/settings/api-keys and update it in Zo Settings > Advanced
 - Last successful sync remains: 2026-04-27T06:25:00.000Z
+
+## 2026-04-28T02:05 UTC
+- Sync run at 2026-04-28T02:05 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- FABRIC_API_KEY confirmed valid
+- Last-sync: 2026-04-27T06:25:00Z
+- Items created after last-sync: 3 new
+- **New items synced: 3 bookmarks**
+  - "Fawn as Identity and Caregiving in AuDHD Life" (bookmark, c5f1296c) — created 2026-04-27T12:01:46Z
+    - Source: Substack note by Bridgette Hamstead on AuDHD fawn responses and identity
+    - Saved to: fabric/bookmark/c5f1296c-fawn-identity-auDHD.md
+  - "Claude cowork setup guide" (bookmark, d4319638) — created 2026-04-27T11:43:31Z
+    - Source: open.substack.com — How to set up Claude Cowork (April 2026 update)
+    - Saved to: fabric/bookmark/d4319638-claude-cowork-setup.md
+  - "cosmicstack-labs/mercury-agent" (bookmark, abad0058) — created 2026-04-27T10:38:50Z
+    - Source: GitHub — Soul-driven AI agent with permission-hardened tools, token budgets, multi-channel
+    - Saved to: fabric/bookmark/abad0058-mercury-agent.md
+- Existing synced (after this run): fabric/bookmark/ (45 files), fabric/note/ (6 files), fabric/image/ (3 files), fabric/audio/ (2 files), fabric/video/ (1 file), fabric/voicenote/ (1 file) = 58 total files
+- Updated .last-sync to 2026-04-28T02:05:00Z
+- Git commit: 048b124
