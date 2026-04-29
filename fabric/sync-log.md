@@ -5293,3 +5293,15 @@
 - Note: 3 bookmark items (5-Phase Life Model, Fawn as Identity, Claude cowork setup, cosmicstack mercury-agent) already synced to fabric/unknown/ by prior run
 - Git commit: 69e61b3
 - Last-sync unchanged: 2026-04-29T02:11:05.685458Z
+
+## 2026-04-29 08:06 UTC
+- Sync run at 2026-04-29T08:06 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4647 (unchanged from Apr 28)
+- Last-sync: 2026-04-29T02:11:05Z
+- Checked for items created since last sync
+- Most recent Fabric item: "5-Phase Life Model Framework" (93c2a25d) — created 2026-04-28T15:30:37Z
+- **No new items synced** — most recent item (Apr 28 15:30 UTC) is older than last-sync timestamp (Apr 29 02:11 UTC)
+- Existing synced: fabric/article/ (94 files), fabric/audio/ (4 files), fabric/bookmark/ (83 files), fabric/image/ (61 files), fabric/note/ (133 files), fabric/notepad/ (2 files), fabric/video/ (5 files), fabric/voicenote/ (1 files) = 383 total files
+- Note: Using REST API via X-Api-Key header
+- Updated .last-sync to 2026-04-29T08:06:00Z
