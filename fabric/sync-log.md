@@ -5314,3 +5314,22 @@
 - Last-sync: 2026-04-29T08:06Z (most recent item is older)
 - Git commit: b2a92c2
 - Updated .last-sync to 2026-04-29T12:25:00Z
+
+## 2026-04-29T14:05 UTC (cron job)
+- Sync run at 2026-04-29T14:05 UTC (cron job)
+- Fabric REST API v2 accessible — using X-Api-Key auth
+- Searched items modified since last sync (cutoff: 2026-04-29T12:25:00Z)
+- **New items found: 0** — most recent Fabric item ("5-Phase Life Model Framework") created 2026-04-28T15:30Z, ~22 hours ago
+- Last-sync: 2026-04-29T12:25Z — no items created/modified since then
+- Fabric total items: 4647 (unchanged)
+- Existing synced: fabric/article/ (94 files), fabric/audio/ (4 files), fabric/bookmark/ (83 files), fabric/image/ (61 files), fabric/note/ (133 files), fabric/notepad/ (2 files), fabric/video/ (5 files), fabric/voicenote/ (1 files) = 383 total files
+- Updated .last-sync to 2026-04-29T14:05:00Z
+
+## 2026-04-29T20:08 UTC (cron job)
+- Sync run at 2026-04-29T20:08 UTC (cron job)
+- **Status: ⚠️ No new items synced — API authentication failure**
+- Fabric REST API v2 returned **401 Unauthorized** (`err_oauth_token_invalid`)
+- FABRIC_API_KEY in environment is invalid/expired
+- FABRIC_API_KEY present: `943e7641-2b75-45ee-9143-2eb2438ab7b3` (prefix: 943e7641)
+- Jennifer needs to regenerate FABRIC_API_KEY at https://fabric.so/settings/api-keys and update it in Zo Settings > Advanced
+- Last-sync unchanged: 2026-04-29T14:05:00Z
