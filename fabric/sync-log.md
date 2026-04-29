@@ -5103,3 +5103,183 @@
 - Last item in Fabric: created 2026-04-28T15:30:37Z (before last sync window)
 - FABRIC_API_KEY confirmed valid
 - No changes to sync
+
+## 2026-04-29T02:09:21.669040Z (cron)
+- Total items in Fabric: 4647
+- Items modified since last sync: 100
+  - [unknown] 5-Phase Life Model Framework (93c2a25d-a95) — 2026-04-28T15:30:37.104Z
+  - [unknown] Fawn as Identity and Caregiving in AuDHD Life (c5f1296c-604) — 2026-04-27T12:01:46.991Z
+  - [unknown] Claude cowork setup guide (d4319638-941) — 2026-04-27T11:43:31.614Z
+  - [unknown] cosmicstack-labs/mercury-agent (abad0058-fb7) — 2026-04-27T10:38:50.188Z
+  - [unknown] Ideas Database Summary (413ee302-fdb) — 2026-04-26T08:49:51.370Z
+  - [unknown] Skills Database (29067570-855) — 2026-04-26T08:49:41.730Z
+  - [unknown] AI Conversation Templates list (377e9f33-a11) — 2026-04-26T08:49:38.751Z
+  - [unknown] Team meetings log (2a3abde6-6e3) — 2026-04-26T08:49:38.390Z
+  - [unknown] Documentation Index of Notepad Entries
+ (2a22e8bf-44d) — 2026-04-26T08:40:59.286Z
+  - [unknown] If you can't explain it to a six year old, you don't underst (16bfa146-dc8) — 2026-04-26T08:40:55.161Z
+  - [unknown] Quote-filled organizer notes with Einstein quote (2e1f622d-01a) — 2026-04-26T08:40:54.234Z
+  - [unknown] Task Tracking Overview (4a63dd63-8e3) — 2026-04-26T08:40:49.206Z
+  - [unknown] GitHub Repository Understanding (08452b22-cff) — 2026-04-26T08:40:48.849Z
+  - [unknown] AI Conversation Analysis Template (9375a18d-980) — 2026-04-26T08:40:48.227Z
+  - [unknown] New database (0f60e37e-3b2) — 2026-04-26T08:40:46.962Z
+  - [unknown] Untitled (0fc52f58-77f) — 2026-04-26T08:40:45.334Z
+  - [unknown] A Notion-style Project List (51872ceb-174) — 2026-04-26T08:35:54.981Z
+  - [unknown] ChatGPT Conversations DataBase Template (1c0c3b19-02f) — 2026-04-26T08:29:29.717Z
+  - [unknown] Extracted Ideas & Skills (158d3c21-2f6) — 2026-04-26T08:15:29.218Z
+  - [unknown] ChatGPT Conversations (119ba3ac-1a7) — 2026-04-26T08:15:19.577Z
+  - [unknown] Teamspace Home (db58d75b-12c) — 2026-04-26T08:14:00.000Z
+  - [unknown] Team Hub Summary (cbf72e35-959) — 2026-04-26T08:14:00.000Z
+  - [unknown] AI Writing Skills in Notion (c23726d5-37e) — 2026-04-26T08:14:00.000Z
+  - [unknown] Untitled (b9a37ba2-4f3) — 2026-04-26T08:14:00.000Z
+  - [unknown] Untitled (94dc427a-8e2) — 2026-04-26T08:14:00.000Z
+  - [unknown] Untitled (8493d76e-38d) — 2026-04-26T08:14:00.000Z
+  - [unknown] AI Writing Aids Repository (6af037f7-c65) — 2026-04-26T08:14:00.000Z
+  - [unknown] Untitled (637f158f-2c9) — 2026-04-26T08:14:00.000Z
+  - [unknown] Untitled (53bcb23d-f44) — 2026-04-26T08:14:00.000Z
+  - [unknown] PDF link notes (3821dc75-b5d) — 2026-04-26T08:14:00.000Z
+  - [unknown] PDF link note (177174c1-579) — 2026-04-26T08:14:00.000Z
+  - [unknown] Untitled (0fe1ee54-9b1) — 2026-04-26T08:14:00.000Z
+  - [unknown] melancholy vibes from im sad alex (c18f5721-85b) — 2026-04-26T02:17:06.197Z
+  - [unknown] Isabel van Gelder tour promo
+ (b9361a36-20b) — 2026-04-26T02:14:12.245Z
+  - [unknown] SuperSplat: browser-based 3D Gaussian Splat editor (16f23261-5b2) — 2026-04-25T08:36:00.070Z
+  - [unknown] punkpeye/awesome-mcp-servers (044f65aa-53a) — 2026-04-25T07:34:04.244Z
+  - [unknown] Text-to-concepts graph note (510b3eac-305) — 2026-04-24T09:02:58.442Z
+  - [unknown] InfraNodus login and thinking tool page (f4215c7f-526) — 2026-04-14T21:15:22.827Z
+  - [unknown] AI State of the Union: Inflection Point and Automation (0eb33ae8-752) — 2026-04-14T21:00:46.364Z
+  - [unknown] Fix Karpathy’s LLM Wiki with a Knowledge Graph (e08e8ef2-44c) — 2026-04-13T05:01:13.435Z
+  - [unknown] Karpathy's second brain concept (9d3066f1-05a) — 2026-04-13T02:29:50.786Z
+  - [unknown] LLM knowledge bases for personal research (54248e1e-d3e) — 2026-04-13T02:26:53.888Z
+  - [unknown] Idea file: communicate ideas over code or apps (33aae98a-d50) — 2026-04-13T02:25:56.009Z
+  - [unknown] Farzapedia diary-based wiki (f499a1a9-e42) — 2026-04-13T02:25:30.981Z
+  - [unknown] Google Docs publication link (8a62c951-919) — 2026-04-12T12:59:14.797Z
+  - [unknown] llm-council multi-model evaluation platform (c172e81f-2e4) — 2026-04-12T12:52:11.308Z
+  - [unknown] Ole Lehmann on X: Claude trust via LLM Council (23e0f216-141) — 2026-04-12T12:50:32.870Z
+  - [unknown] LLM Council and multi-agent AI decision-making (cadb208e-77e) — 2026-04-12T12:49:53.044Z
+  - [unknown] I am a text file exploring AI likeness (0a194675-c7c) — 2026-04-12T10:02:26.072Z
+  - [unknown] Claude Skills: optimizing prompts for Claude (ac6f5da0-a18) — 2026-04-12T09:47:40.883Z
+  - [unknown] Mobile Offline Actions Gemma (b4d165a8-2d5) — 2026-04-11T22:03:49.511Z
+  - [unknown] Weird call to Terry—DJ community dialogue (2a21ab3c-fad) — 2026-04-09T07:01:55.751Z
+  - [unknown] The Neurodivergent’s Guide to Sex (535e5b50-ad3) — 2026-04-08T10:01:04.406Z
+  - [unknown] Untitled video capture (0f43ff98-820) — 2026-04-07T04:39:02.721Z
+  - [unknown] Voice note audio check (53987ac3-9a4) — 2026-04-07T00:01:41.650Z
+  - [unknown] Accessibility-First Interface Design (1ccc5580-588) — 2026-04-06T05:03:10.929Z
+  - [unknown] Neurodivergent guides to sex and consent (53c3cdfe-880) — 2026-04-05T16:54:15.950Z
+  - [unknown] ChatGPT interface and privacy notes (58aadb6d-ead) — 2026-04-05T08:25:49.117Z
+  - [unknown] Screenshot_20260329_015212 (263becc1-aeb) — 2026-04-04T01:20:07.152Z
+  - [unknown] Screenshot_20260324_104905_Galaxy Store (2179f0d0-fa3) — 2026-04-04T01:20:03.456Z
+  - [unknown] Facebook share page (e226fe8e-853) — 2026-03-25T03:44:01.138Z
+  - [unknown] Crosstalk-Solutions/project-nomad (572a243a-6c3) — 2026-03-23T07:55:56.809Z
+  - [unknown] Jen's AI Proxy Portal (29092ef1-691) — 2026-03-23T04:41:47.287Z
+  - [unknown] Geometric iridescent spheres lights (1846e836-bbb) — 2026-03-22T11:03:32.462Z
+  - [unknown] XC4421 Manual Summary (60ae886e-f0a) — 2026-03-22T07:20:06.459Z
+  - [unknown] Untitled text note (ec38eba2-e62) — 2026-03-22T07:20:04.394Z
+  - [unknown] Development Boards Inventory & RFID Guide (56fddfdd-2ad) — 2026-03-22T07:17:11.872Z
+  - [unknown] Themed Text Notes (401f512c-5f0) — 2026-03-22T07:17:05.871Z
+  - [unknown] Fabric API Bookmark Endpoint Spec (608e23a4-d8a) — 2026-03-22T07:17:01.699Z
+  - [unknown] Development Boards Inventory and RFID Guide (96eb8c5b-6b5) — 2026-03-22T07:17:00.965Z
+  - [unknown] XC4421 manual: user guide (5f198056-f43) — 2026-03-22T07:16:56.245Z
+  - [unknown] Forgotten Project Archive (f80fb9f6-d94) — 2026-03-22T07:16:55.681Z
+  - [unknown] Cross-Platform AI Context Sharing</unnamed> (0d63bc22-5af) — 2026-03-22T07:16:51.165Z
+  - [unknown] cognitive-infrastructure-complete (03ae639f-2c0) — 2026-03-22T07:16:48.226Z
+  - [unknown] Your Personal Brain Operating Manual (4ec3c5de-a37) — 2026-03-22T07:16:47.611Z
+  - [unknown] BP2026010737449 PDF document (9e7c426b-b3f) — 2026-03-22T07:16:42.607Z
+  - [unknown] How to Use a Breadboard - SparkFun Learn (2) (ac400c03-8c2) — 2026-03-22T07:16:42.537Z
+  - [unknown] How to Use a Breadboard - SparkFun Learn (1d8b09c9-516) — 2026-03-22T07:16:39.994Z
+  - [unknown] Ambient Context Pipeline Plan (7bc4f91e-f13) — 2026-03-22T07:16:34.226Z
+  - [unknown] Greenshed project files checklist and planning system (27dd302c-ed6) — 2026-03-22T07:16:30.909Z
+  - [unknown] Blue round tablet on leather-textured surface (fbe5176d-456) — 2026-03-22T07:16:21.050Z
+  - [unknown] Routine hub (9666ad11-f1e) — 2026-03-22T07:16:10.142Z
+  - [unknown] Cogni-Pi ADHD Assistant Blueprint (99bf41e8-c6e) — 2026-03-22T07:16:06.524Z
+  - [unknown] Cognitive Dossier: Jennifer Gilbert
+ (61818919-a0b) — 2026-03-22T07:16:04.994Z
+  - [unknown] Neurodivergent Project Archaeology Workbook (74224cd5-b4d) — 2026-03-22T07:16:02.631Z
+  - [unknown] Cogni-Pi ADHD Blueprint (382b16fb-696) — 2026-03-22T07:16:01.238Z
+  - [unknown] greenshed_project_complete-2 (38beb50c-4af) — 2026-03-22T07:16:00.705Z
+  - [unknown] hard-rubbish-tracker.skill (5f869c9b-7e4) — 2026-03-22T07:15:57.815Z
+  - [unknown] Hard Rubbish Tracker Handoff (6bb8eb6c-ab5) — 2026-03-22T07:15:55.850Z
+  - [unknown] Development Modes Metrics Summary (07f38b16-e77) — 2026-03-22T07:15:55.826Z
+  - [unknown] Dataset: Chat transcripts and prompts for agent-assisted wor (4cd115ea-e45) — 2026-03-22T07:15:53.797Z
+  - [unknown] Project Hub Ideas log (a7001fa2-1d5) — 2026-03-22T07:15:51.793Z
+  - [unknown] Entities Genealogy
+
+ (33c71a11-e6e) — 2026-03-22T07:15:50.808Z
+  - [unknown] Thread Intersections: Multi-Theme Matrix (28ba01c8-ed7) — 2026-03-22T07:15:50.795Z
+  - [unknown] Toolchain Logs and Insights Archive (2e90dfd4-24d) — 2026-03-22T07:15:49.100Z
+  - [unknown] Intersections of Multi-Topic Orchestration (85ce6d64-e8f) — 2026-03-22T07:15:46.821Z
+  - [unknown] Threadwise Monthly Toolchain Metrics (3b3b8347-a5d) — 2026-03-22T07:15:46.784Z
+  - [unknown] Claude Spiral Development Threads Summary (f2295941-fe1) — 2026-03-22T07:15:45.495Z
+  - [unknown] Monthly thread activity trends (fdaffb87-5c1) — 2026-03-22T07:15:44.213Z
+  - [unknown] MSI B150M MORTAR ARCTIC motherboard packaging and install gu (097d8037-70d) — 2026-03-22T07:15:42.340Z
+- Updated .last-sync to 2026-04-29T02:09:21.669040Z
+
+## 2026-04-29T02:11:05.685458Z (cron)
+- Total items in Fabric: 4647
+- New/modified items synced: 4647
+- audio: 407 items
+  - Weird call to Terry—DJ community dialogue (2a21ab3c-fad)
+  - Recording in Inbox (c1b2d765-007)
+  - URecorder_20260111_205217 (55a07c13-21c)
+  - URecorder_20251217_132445 (8273ab8c-982)
+  - Voice note 2025-12-09 17:37 (f0cf7cf9-5c0)
+  - ... and 402 more
+- bookmark: 1749 items
+  - 5-Phase Life Model Framework (93c2a25d-a95)
+  - Fawn as Identity and Caregiving in AuDHD Life (c5f1296c-604)
+  - Claude cowork setup guide (d4319638-941)
+  - cosmicstack-labs/mercury-agent (abad0058-fb7)
+  - melancholy vibes from im sad alex (c18f5721-85b)
+  - ... and 1744 more
+- default: 366 items
+  - Untitled text note (ec38eba2-e62)
+  - cognitive-infrastructure-complete (03ae639f-2c0)
+  - How to Use a Breadboard - SparkFun Learn (2) (ac400c03-8c2)
+  - How to Use a Breadboard - SparkFun Learn (1d8b09c9-516)
+  - Routine hub (9666ad11-f1e)
+  - ... and 361 more
+- document: 823 items
+  - XC4421 Manual Summary (60ae886e-f0a)
+  - Development Boards Inventory & RFID Guide (56fddfdd-2ad)
+  - Themed Text Notes (401f512c-5f0)
+  - Fabric API Bookmark Endpoint Spec (608e23a4-d8a)
+  - Development Boards Inventory and RFID Guide (96eb8c5b-6b5)
+  - ... and 818 more
+- folder: 350 items
+  - Agents (272f8b6e-b3b)
+  - Liquescent Squish (6683a580-43a)
+  - Claw (62f11fb7-8cd)
+  - Skills (0f96e69a-34b)
+  - AuDHD (6e85336a-66e)
+  - ... and 345 more
+- highlight: 4 items
+  - GitHub - livekit-examples/agent-starter-embed: Embeddable AI (12e361b5-b59)
+  - Building agents with the Claude Agent SDK (94bc3dfd-94b)
+  - Claude 4 Best Practices Highlight (cb40ff00-f7a)
+  - Claude 4 prompt engineering best practices note (ada2c162-65b)
+- image: 583 items
+  - Screenshot_20260329_015212 (263becc1-aeb)
+  - Screenshot_20260324_104905_Galaxy Store (2179f0d0-fa3)
+  - Blue round tablet on leather-textured surface (fbe5176d-456)
+  - Prompt Anatomy (9b1edeed-9af)
+  - Claude’s Chat vs Cowork vs Projects (6d9c4da9-b89)
+  - ... and 578 more
+- notepad: 334 items
+  - Ideas Database Summary (413ee302-fdb)
+  - Skills Database (29067570-855)
+  - AI Conversation Templates list (377e9f33-a11)
+  - Team meetings log (2a3abde6-6e3)
+  - Documentation Index of Notepad Entries
+ (2a22e8bf-44d)
+  - ... and 329 more
+- video: 29 items
+  - Untitled video capture (0f43ff98-820)
+  - Untitled video clip (196d92a5-085)
+  - Video clip: 26s from Apple iPhone XS Max (89090d3e-160)
+  - Cluttered living room video (c71dcf71-57d)
+  - IMG_0150 (4c69dce3-7f0)
+  - ... and 24 more
+- voicenote: 2 items
+  - Voice note audio check (53987ac3-9a4)
+  - Untitled (c4b10903-c06)
+- Updated .last-sync to 2026-04-29T02:11:05.685458Z

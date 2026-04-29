@@ -95,3 +95,4 @@ Fri Apr 24 06:23:21 UTC 2026: Fabric MCP not available - fabric-mcp binary not f
 [2026-04-28T00:25:24Z] Fabric MCP not available — tools not registered, CLI not installed. Skipping sync.
 [2026-04-28T06:26:38Z] Fabric MCP tools not available (fabric-mcp not found, CLI not installed, API endpoints not accessible). Skipping sync.
 Tue Apr 28 12:23:58 UTC 2026: Fabric MCP tools not available (find-fabric-items, create-fabric-note) - skipping sync
+2026-04-29T00:23:38Z - Fabric MCP tools not available (find-fabric-items, create-fabric-note not found)
