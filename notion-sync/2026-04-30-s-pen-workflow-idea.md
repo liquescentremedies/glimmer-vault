@@ -23,4 +23,3 @@ Switched device
 ## Next Actions
 
 Test capture flow on Galaxy Tab
-

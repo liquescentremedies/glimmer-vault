@@ -23,4 +23,3 @@ No immediate need
 ## Next Actions
 
 Add 3 quick tasks later
-

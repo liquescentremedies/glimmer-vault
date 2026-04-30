@@ -23,4 +23,3 @@ Ambiguity / system friction
 ## Next Actions
 
 Enforce single front door
-

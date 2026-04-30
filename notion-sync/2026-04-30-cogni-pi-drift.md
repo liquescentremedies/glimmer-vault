@@ -23,4 +23,3 @@ Moved into meta-system design
 ## Next Actions
 
 Define minimal voice capture loop
-
