@@ -5333,3 +5333,13 @@
 - FABRIC_API_KEY present: `943e7641-2b75-45ee-9143-2eb2438ab7b3` (prefix: 943e7641)
 - Jennifer needs to regenerate FABRIC_API_KEY at https://fabric.so/settings/api-keys and update it in Zo Settings > Advanced
 - Last-sync unchanged: 2026-04-29T14:05:00Z
+
+## 2026-04-30T02:05 UTC
+- Sync run at 2026-04-30T02:05 UTC (scheduled cron)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4511 (unchanged since Apr 14)
+- New items since last sync (2026-04-29T14:05:00Z): **0**
+- Most recent Fabric item: InfraNodus login (f4215c7f) - modified 2026-04-14T21:15Z (already synced)
+- No new items to download or categorise
+- Existing synced: fabric/bookmark/ (39), fabric/note/ (6), fabric/image/ (3), fabric/audio/ (2), fabric/video/ (1), fabric/voicenote/ (1)
+- Updated .last-sync to 2026-04-30T02:05:00Z
