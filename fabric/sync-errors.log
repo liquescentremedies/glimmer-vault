@@ -97,3 +97,4 @@ Fri Apr 24 06:23:21 UTC 2026: Fabric MCP not available - fabric-mcp binary not f
 Tue Apr 28 12:23:58 UTC 2026: Fabric MCP tools not available (find-fabric-items, create-fabric-note) - skipping sync
 2026-04-29T00:23:38Z - Fabric MCP tools not available (find-fabric-items, create-fabric-note not found)
 [2026-04-29T18:26:13+00:00] Fabric MCP tools not available (find-fabric-items not found in tool registry)
+[2026-04-30T00:20:00Z] Fabric MCP not connected - no app_tools available for fabric
