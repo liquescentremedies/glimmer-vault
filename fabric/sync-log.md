@@ -5343,3 +5343,16 @@
 - No new items to download or categorise
 - Existing synced: fabric/bookmark/ (39), fabric/note/ (6), fabric/image/ (3), fabric/audio/ (2), fabric/video/ (1), fabric/voicenote/ (1)
 - Updated .last-sync to 2026-04-30T02:05:00Z
+
+## 2026-05-01T02:05 UTC
+- Sync run at 2026-05-01T02:05 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4648
+- New items since last sync (2026-04-30T02:05:00Z): **2**
+- New items downloaded:
+  - bookmark: warpdotdev/warp (799211a0-0531-4bf2-a92b-0b08bd874d71) — modified 2026-04-30T10:26:29
+  - bookmark: NousResearch/hermes-agent (c1a5cfa0-1f64-4ef7-a024-35cf99c8dcc3) — modified 2026-04-30T10:26:29
+- Both from GitHub Stars collection
+- Existing synced: fabric/bookmark/, fabric/note/, fabric/image/, fabric/audio/, fabric/video/, fabric/voicenote/, fabric/notepad/
+- Updated .last-sync to 2026-05-01T02:05:00Z
+[2026-05-01T06:30:58+0000] fabric-sync run: 0 new items (most recent item: 2026-04-30T10:26:29Z, ~20h ago)
