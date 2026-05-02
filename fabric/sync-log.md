@@ -5367,3 +5367,32 @@
 - Most recent item is ~22 hours older than sync time — no new items in this window
 - Existing synced categories: fabric/bookmark/, fabric/note/, fabric/image/, fabric/audio/, fabric/video/, fabric/voicenote/, fabric/notepad/
 - Updated .last-sync to 2026-05-01T08:07:00Z
+
+## 2026-05-02T02:05 UTC
+- Sync run at 2026-05-02T02:05 UTC (cron job)
+- Fabric REST API returned **401 Unauthorized** (`err_oauth_token_invalid`) — token invalid/expired
+- Total items in Fabric: unknown (API unreachable)
+- New items since last sync: **unknown** (sync blocked)
+- **Blocker:** FABRIC_API_KEY `943e7641-...` is invalid. Token has been revoked or expired.
+- No new items downloaded.
+- Existing synced categories (counts from filesystem):
+  - fabric/article/ (94), fabric/bookmark/ (85), fabric/image/ (61), fabric/note/ (133)
+  - fabric/audio/ (4), fabric/video/ (5), fabric/voicenote/ (1), fabric/unknown/ (3)
+- **Action needed:** Jennifer needs to regenerate API key at https://fabric.so/settings/api
+- Updated .last-sync to 2026-05-02T02:05:00Z (unchanged — no new data)
+
+## 2026-05-02 08:04 UTC
+- Sync run at 2026-05-02T08:04 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4648
+- Last-sync: 2026-05-02T02:06:41Z
+- Checked for items created since last sync
+- New items since last sync: **0**
+- Most recent Fabric items created after last-sync:
+  - "warpdotdev/warp" (799211a0) — created 2026-04-30T10:26:29Z (already synced)
+  - "NousResearch/hermes-agent" (c1a5cfa0) — created 2026-04-30T10:26:29Z (already synced)
+  - "5-Phase Life Model Framework" (93c2a25d) — created 2026-04-28T15:30:37Z (already synced)
+- No new items to download or categorise
+- Existing synced: fabric/article/ (3 files), fabric/audio/ (4 files), fabric/bookmark/ (85 files), fabric/image/ (61 files), fabric/note/ (134 files), fabric/video/ (5 files), fabric/voicenote/ (1 files), fabric/unknown/ (3 files) = ~296 total files
+- Note: Using REST API via X-Api-Key header
+- Updated .last-sync to 2026-05-02T08:04:00Z
