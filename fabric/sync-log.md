@@ -1,3 +1,21 @@
+## 2026-05-03 14:08 UTC
+- Sync run at 2026-05-03T14:08 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4651
+- Last-sync: 2026-05-03T08:05:00Z
+- **New items found: 3**
+  - [folder] "Models" (8ebddb7c) — created 2026-05-03T13:46:47Z (AI/Gemini models reference folder)
+  - [bookmark] "Gemini 3.1 Pro Preview Overview" (01b8bd14) — created 2026-05-03T13:53:25Z
+    - URL: https://ai.google.dev/gemini-api/docs/models/gemini-3.1-pro-preview
+    - Keywords: documentation, google, software development, api, llm, language model, machine learning, generative ai, ai
+  - [bookmark] "Gemini 3.1 Flash Live Preview docs" (a63c9350) — created 2026-05-03T13:46:57Z
+    - URL: https://ai.google.dev/gemini-api/docs/models/gemini-3.1-flash-live-preview.md.txt
+    - Keywords: google, software development, api documentation, artificial intelligence, large language model, gemini, machine learning
+- Saved to: fabric/folder/8ebddb7c-Models.md, fabric/bookmark/01b8bd14..., fabric/bookmark/a63c9350...
+- Existing synced: fabric/article/ (94), fabric/audio/ (4), fabric/bookmark/ (87), fabric/folder/ (1), fabric/image/ (61), fabric/note/ (133), fabric/video/ (5), fabric/voicenote/ (1)
+- Note: Using REST API via X-Api-Key header
+- Updated .last-sync to 2026-05-03T14:05:00Z
+
 ## 2026-04-28 14:06 UTC
 - Sync run at 2026-04-28T14:06 UTC (cron job)
 - Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
@@ -5413,3 +5431,14 @@
   - bookmark/ (85), note/ (134), article/ (94), document/ (?)
   - image/ (61), audio/ (4), video/ (5), voicenote/ (1), unknown/ (3)
 - Updated .last-sync to 2026-05-03T08:05:00Z
+
+## 2026-05-03T20:08 UTC
+- Sync run at 2026-05-03T20:08 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4651
+- Last-sync: 2026-05-02T08:04:00Z
+- New items since last sync: **2**
+  - [bookmark] Gemini 3.1 Pro Preview Overview (01b8bd14) → fabric/bookmark/
+  - [bookmark] Gemini 3.1 Flash Live Preview docs (a63c9350) → fabric/bookmark/
+- Note: folder "Models" (8ebddb7c) was created but skipped (not a content item)
+- Updated .last-sync to 2026-05-03T20:08:00Z
