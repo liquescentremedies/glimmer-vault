@@ -5454,3 +5454,16 @@
 - Existing synced: fabric/article/ (94), fabric/audio/ (4), fabric/bookmark/ (89), fabric/folder/ (1), fabric/image/ (61), fabric/note/ (133), fabric/video/ (5), fabric/voicenote/ (1)
 - Note: Using REST API via X-Api-Key header
 - Updated .last-sync to 2026-05-04T02:05:00Z
+
+## 2026-05-04T08:07 UTC
+- Sync run at 2026-05-04T08:07 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4652
+- Last-sync: 2026-05-04T02:05:00Z
+- New items found since last sync: 1
+  - [bookmark] mamertofabian/mcp-everything-search (3d66fa6d) → fabric/bookmark/
+  - Also synced May 3 backlog items (2 Gemini bookmarks → fabric/bookmark/)
+- Existing counts: fabric/article/ (94), fabric/audio/ (4), fabric/bookmark/ (92), fabric/folder/ (1), fabric/image/ (61), fabric/note/ (133), fabric/video/ (5), fabric/voicenote/ (1)
+- Note: fabric-sync.py writes to /home/workspace/vault/+Inbox/ — new items manually moved to obsidian-vault/fabric/[kind]/
+- ⚠️ Backlog: ~60 items accumulated in /home/workspace/vault/+Inbox/ not yet in obsidian-vault/fabric/
+- Updated .last-sync to 2026-05-04T08:08:00Z
