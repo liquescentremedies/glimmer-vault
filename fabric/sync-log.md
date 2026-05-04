@@ -5442,3 +5442,15 @@
   - [bookmark] Gemini 3.1 Flash Live Preview docs (a63c9350) → fabric/bookmark/
 - Note: folder "Models" (8ebddb7c) was created but skipped (not a content item)
 - Updated .last-sync to 2026-05-03T20:08:00Z
+
+## 2026-05-04 02:05 UTC
+- Sync run at 2026-05-04T02:05 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4651
+- Last-sync: 2026-05-03T20:08:00Z
+- Checked for items created since last sync
+- **New items found: 0** — no items created after 2026-05-03T20:08:00Z
+- Also checked modifiedAfter filter — no items modified since last sync
+- Existing synced: fabric/article/ (94), fabric/audio/ (4), fabric/bookmark/ (89), fabric/folder/ (1), fabric/image/ (61), fabric/note/ (133), fabric/video/ (5), fabric/voicenote/ (1)
+- Note: Using REST API via X-Api-Key header
+- Updated .last-sync to 2026-05-04T02:05:00Z
