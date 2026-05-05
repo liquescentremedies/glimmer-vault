@@ -5467,3 +5467,44 @@
 - Note: fabric-sync.py writes to /home/workspace/vault/+Inbox/ — new items manually moved to obsidian-vault/fabric/[kind]/
 - ⚠️ Backlog: ~60 items accumulated in /home/workspace/vault/+Inbox/ not yet in obsidian-vault/fabric/
 - Updated .last-sync to 2026-05-04T08:08:00Z
+
+## 2026-05-04T14:05 UTC
+- Sync run at 2026-05-04T14:05 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4652
+- Last-sync: 2026-05-04T08:08:48Z
+- Checked for items modified since last sync
+- **New items found: 0** — no items modified after 2026-05-04T08:08:48Z
+- Existing counts: fabric/article/ (94), fabric/audio/ (4), fabric/bookmark/ (92), fabric/folder/ (1), fabric/image/ (61), fabric/note/ (133), fabric/video/ (5), fabric/voicenote/ (1)
+- Updated .last-sync to 2026-05-04T14:05:00Z
+
+## 2026-05-05T02:09 UTC
+- Sync run at 2026-05-05T02:09 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Total items in Fabric: 4653
+- Last-sync: 2026-05-04T14:05:00Z
+- Items modified/created since last sync: **20**
+  - Bookmarks (10 new): 
+    - Openclaw Inbox Portal
+    - mamertofabian/mcp-everything-search
+    - Gemini 3.1 Pro Preview Overview
+    - Gemini 3.1 Flash Live Preview docs
+    - warpdotdev/warp
+    - NousResearch/hermes-agent
+    - 5-Phase Life Model Framework
+    - Fawn as Identity and Caregiving in AuDHD Life
+    - Claude cowork setup guide
+    - cosmicstack-labs/mercury-agent
+  - Notepads (9 new, from +Inbox backlog):
+    - Ideas Database Summary
+    - Skills Database
+    - AI Conversation Templates list
+    - Team meetings log
+    - Documentation Index of Notepad Entries
+    - If you can't explain it to a six year old
+    - Quote-filled organizer notes with Einstein quote
+    - Task Tracking Overview
+    - GitHub Repository Understanding
+  - Folder (1 skipped): Models (not content)
+- Updated counts: fabric/article/ (94), fabric/audio/ (4), fabric/bookmark/ (102), fabric/folder/ (1), fabric/image/ (61), fabric/note/ (133), fabric/notepad/ (9), fabric/video/ (5), fabric/voicenote/ (1)
+- Updated .last-sync to 2026-05-05T02:09:19Z
