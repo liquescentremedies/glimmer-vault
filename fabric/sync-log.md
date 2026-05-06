@@ -1,3 +1,19 @@
+## 2026-05-06 02:06 UTC
+- Sync run at 2026-05-06T02:06 UTC (cron job)
+- Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
+- Last-sync: 2026-05-04T14:05:00Z
+- **New items found: 2**
+  - [bookmark] "OpenClawAndroid/openclaw-android-assistant" (1af1c384) — Github stars folder
+    - URL: https://github.com/OpenClawAndroid/openclaw-android-assistant
+    - Keywords: chatbot, assistant, application, linux, ai, apk, agent, android, software, coding
+  - [bookmark] "Openclaw Inbox Portal" (813effb5) — Github stars folder
+    - URL: https://100.118.227.2:18789
+    - Keywords: dashboard, openclaw, portal, website, inbox, interface
+- Saved to: fabric/bookmark/fabric-2026-05-06-1af1c384-..., fabric/bookmark/fabric-2026-05-06-813effb5-...
+- Existing synced: fabric/article/ (94), fabric/audio/ (4), fabric/bookmark/ (87+2=89), fabric/folder/ (1), fabric/image/ (61), fabric/note/ (133), fabric/video/ (5), fabric/voicenote/ (1)
+- Note: Using REST API via X-Api-Key header
+- Updated .last-sync to 2026-05-06T02:05:00Z
+
 ## 2026-05-03 14:08 UTC
 - Sync run at 2026-05-03T14:08 UTC (cron job)
 - Fabric REST API v2 accessible at https://api.fabric.so/v2/resources/filter
